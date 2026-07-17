@@ -20,6 +20,8 @@ python3 -m http.server 8000
 
 Then visit `http://localhost:8000`.
 
+You can also directly open this link : `https://alcije.github.io/Portfolio/`.
+
 ## AI use
 
 AI was used to help me put in form this README.md and also correct some part in the portfolio.
