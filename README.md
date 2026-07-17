@@ -20,10 +20,6 @@ python3 -m http.server 8000
 
 Then visit `http://localhost:8000`.
 
-## Updating projects
+## AI use
 
-Only change a project status when it reflects the real state of the work. External links use `target="_blank" rel="noopener noreferrer"`.
-
-## Security headers
-
-`_headers` works on compatible static hosts such as Netlify. Other hosting providers may require the same headers in their own configuration format.
+AI was used to help me put in form this README.md and also correct some part in the portfolio.
